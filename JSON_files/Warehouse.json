@@ -1,0 +1,62 @@
+[
+  {
+    "date": "01.02",
+    "itemId": 1,
+    "amount": 500,
+    "in_out": 1
+  },
+  {
+    "date": "01.02",
+    "itemId": 2,
+    "amount": 200,
+    "in_out": 1
+  },
+  {
+    "date": "01.02",
+    "itemId": 3,
+    "amount": 800,
+    "in_out": 1
+  },
+  {
+    "date": "01.02",
+    "itemId": 3,
+    "amount": 400,
+    "in_out": -1
+  },
+  {
+    "date": "01.03",
+    "itemId": 2,
+    "amount": 800,
+    "in_out": 1
+  },
+  {
+    "date": "01.05",
+    "itemId": 3,
+    "amount": 200,
+    "in_out": -1
+  },
+  {
+    "date": "01.05",
+    "itemId": 1,
+    "amount": 100,
+    "in_out": -1
+  },
+  {
+    "date": "01.07",
+    "itemId": 5,
+    "amount": 1000,
+    "in_out": 1
+  },
+  {
+    "date": "01.08",
+    "itemId": 4,
+    "amount": 350,
+    "in_out": 1
+  },
+  {
+    "date": "01.10",
+    "itemId": 5,
+    "amount": 500,
+    "in_out": -1
+  }
+]

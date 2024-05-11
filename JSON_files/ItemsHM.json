@@ -1,0 +1,27 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Smartphone",
+    "price": 500
+  },
+  "2": {
+    "id": "2",
+    "name": "Car battery",
+    "price": 150
+  },
+  "3": {
+    "id": "3",
+    "name": "Dinerware",
+    "price": 50
+  },
+  "4": {
+    "id": "4",
+    "name": "Jeans",
+    "price": 30
+  },
+  "5": {
+    "id": "5",
+    "name": "Canned soup",
+    "price": 5
+  }
+}
